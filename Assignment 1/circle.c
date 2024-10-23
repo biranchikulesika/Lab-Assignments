@@ -1,6 +1,6 @@
 /*A C program to calculate the area and circumference of a circle based on the radius entered by the user.
 
-File: Circle.c
+File: circle.c
 Author: Biranchi Kulesika
 Date: 2 Sep, 2023
 */
