@@ -15,7 +15,7 @@ int main()
     printf("\n\nEnter the radius of the circle: ");
     scanf("%lf", &radius);
     
-    circumference = 2*M_PI*radius;
+    circumference = 2*M_PI*radius; //M_PI is a predefined constant in <math.h>
     area = M_PI*radius*radius;
     
     printf("\n\nRadius: %.2lf units", radius);    
